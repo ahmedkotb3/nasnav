@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/nasnavshopping/static/media/logofooter.cdaef6fb.png"
   },
   {
-    "revision": "197e473414903413bb6a",
-    "url": "/nasnavshopping/static/css/main.bda81b40.chunk.css"
+    "revision": "90a50dbdfcee64119ee7",
+    "url": "/nasnavshopping/static/css/main.67fc6929.chunk.css"
   },
   {
     "revision": "8a283ff588d5c56e2248",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/nasnavshopping/static/media/pic3.b4fe3f89.png"
   },
   {
-    "revision": "197e473414903413bb6a",
-    "url": "/nasnavshopping/static/js/main.c15aef11.chunk.js"
+    "revision": "90a50dbdfcee64119ee7",
+    "url": "/nasnavshopping/static/js/main.f3d21d00.chunk.js"
   },
   {
     "revision": "6a386899746222073dd64c5f74d1a69d",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/nasnavshopping/static/media/map.f35beca8.png"
   },
   {
-    "revision": "5d164a062aa5ec71fe714dabc2ecef96",
+    "revision": "65d534dc43fee9d2b1c69107bb2a5b66",
     "url": "/nasnavshopping/index.html"
   }
 ];
